@@ -8,6 +8,6 @@ CRAN packages that I maintain:
 
 📦 [czechrates](https://github.com/jla-data/czechrates) for accessing the Czech National Bank historical interest and FX rates
 
-Course materials:
+Courses that I teach:
 
-🎓 [4EK418](https://github.com/jlacko/4EK418) Maps, geodata and spatial econometrics in R at VŠE; in Czech only
+🎓 [4EK418](https://github.com/jlacko/4EK418) Maps, geodata and spatial econometrics in R at [VŠE](https://www.vse.cz/english/); for practical reasons in Czech only
